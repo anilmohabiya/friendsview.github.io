@@ -1,0 +1,22 @@
+{
+  "login": [
+    {
+      "name": "rani",
+      "password": "rani@123"
+    }
+  ],
+  "inbox": [
+    {
+      "name": "lovely",
+      "message": "brother",
+      "message1": "brother",
+      "id": 17
+    },
+    {
+      "name": "netajii",
+      "message": "heart",
+      "message1": "brother",
+      "id": 18
+    }
+  ]
+}
